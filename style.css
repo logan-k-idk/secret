@@ -86,4 +86,6 @@ img{
   margin-right: auto;
   width: 50%;
   height: 50%;
+  border: solid 4px #1269cc;
+  border-radius: 25px;
 }
